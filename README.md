@@ -8,7 +8,7 @@ Szép napot! 😁
 * Hobbi, ami a munkám is
 > Jelenleg a bakalár munkámmal töltök rengeteg időt. Rengeteg ötletem van, amit szeretnék véghez vinni, ezért is kezdtem el korábban neki.
 > > Bakalár munkám
-> > > TL;DR: Egy discord botot fejelsztek, ami az egyetem diákjait segíti közösségi és személyes célból.
+> > > TL;DR: Egy discord botot fejlesztek, ami az egyetem diákjait segíti közösségi és személyes célból.
 > > > A bot képes 
 > > > Amennyiben szeretnél többet olvasni róla, [itt megteheted].
 
