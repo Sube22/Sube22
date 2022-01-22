@@ -12,6 +12,8 @@ Szép napot! 😁
 > > > A bot képes 
 > > > Amennyiben szeretnél többet olvasni róla, [itt megteheted].
 
+### Majd írok ide többet is, de most inkább mek programozni ✌
+
 <!--
 **Sube22/Sube22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
