@@ -31,3 +31,10 @@ Here are some ideas to get you started:
 
 
 [itt megteheted]: https://sube22.github.io/selyeai/index.html
+
+
+<!--
+
+Segítség
+
+ https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax -->
