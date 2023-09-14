@@ -3,7 +3,7 @@
 
 Szép napot! 😁
 * Magamról
-> A nevem Süli Bence. 21 évesen, jelenleg másod éves egyetemista vagyok a komáromi Selye János Egyetem alkalmazott informatika szakán. Szeretem az informatikát és egy picit az elektrotechnikát is. Képes vagyok napi szinten 10 órákat programozni, ha annyira megtetszik az a project.
+> A nevem Süli Bence. 22 évesen, jelenleg másod éves egyetemista vagyok a komáromi Selye János Egyetem alkalmazott informatika szakán. Szeretem az informatikát és egy picit az elektrotechnikát is. Képes vagyok napi szinten 10 órákat programozni, ha annyira megtetszik az a project.
 
 * Hobbi, ami a munkám is
 > Jelenleg a bakalár munkámmal töltök rengeteg időt. Rengeteg ötletem van, amit szeretnék véghez vinni, ezért is kezdtem el korábban neki.
