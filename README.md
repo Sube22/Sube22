@@ -1,5 +1,5 @@
 ## Oh. Hello there 👋
-### 21 éves, egyetemista, programozó
+### 22 éves, egyetemista, programozó
 
 Szép napot! 😁
 * Magamról
